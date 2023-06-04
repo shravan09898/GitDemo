@@ -1,3 +1,4 @@
 This is file2
-line 1 
-line2 or V2
+#line2 or V2
+
+version 2 removed and added version 3, removed line 1
